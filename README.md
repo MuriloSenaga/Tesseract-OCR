@@ -1,4 +1,6 @@
-# Tesseract OCR
+# Tutorial Tesseract OCR
+
+## Murilo Kenichiro Senaga
 
 ## 1. O que é?  
 O Tesseract é um software de reconhecimento óptico de caracteres (OCR) de código aberto, projetado para converter imagens de texto em texto editável, permitindo que documentos digitalizados sejam transformados em formatos que podem ser facilmente manipulados e pesquisados. O Tesseract é amplamente utilizado em aplicações que necessitam de extração de texto a partir de imagens, como digitalização de documentos, leitura de placas e reconhecimento de texto em fotos.
